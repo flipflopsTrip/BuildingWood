@@ -48,6 +48,7 @@
 ![메인화면](./readImg/myService/메인화면1.webp)  
   
 2. 맛집 추천
+![맛집추천](./readImg/myService/맛집추천1.webp)
 ![맛집추천](./readImg/myService/맛집추천2.webp)
 ![맛집추천](./readImg/myService/맛집상세1%20-%20복사본.jpg)
 ![맛집추천](./readImg/myService/맛집상세2%20-%20복사본.jpg)
